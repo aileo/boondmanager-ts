@@ -1,0 +1,13 @@
+node_modules
+
+# inputs from boondmanager
+api-externe.raml
+documentation
+resources
+resourceTypes
+schemas
+securitySchemes
+traits
+
+# working files
+api-externe.yml
